@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://nepal-trekking-rules-and-regulations.pages.dev/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
